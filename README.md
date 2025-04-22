@@ -13,7 +13,15 @@ The primary goal of this project is to leverage machine learning to predict the 
   - LightGBM
   - XGBoost
   - Random Forest
-
+    
+## Libraries Used
+- `Scikit-learn`  
+- `numpy`  
+- `pandas`  
+- `seaborn`  
+- `matplotlib`  
+- `pickle`
+  
 ##  Machine Learning Workflow
 
 1. **Data Preprocessing**
@@ -51,15 +59,7 @@ The primary goal of this project is to leverage machine learning to predict the 
 - `M` (Metastasis)  
 - `Stage`  
 - `Response` (to treatment)  
-- `Recurred` (Target Variable)
-
-## Libraries Used
-- `Scikit-learn`  
-- `numpy`  
-- `pandas`  
-- `seaborn`  
-- `matplotlib`  
-- `pickle`  
+- `Recurred` (Target Variable) 
 
 ## Results
 
