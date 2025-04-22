@@ -8,22 +8,22 @@ st.write("""
         ## Dataset
         The model is trained on a structured dataset consisting of clinical and diagnostic information of thyroid cancer patients. Key features include:
         
-        -Age
-        -Gender
-        -Smoking
-        -HxSmoking
-        -HxRadiotherapy
-        -Thyroid Function
-        -Physical Examination
-        -Adenopathy
-        -Pathology
-        -Focality
-        -Risk
-        -T (Tumor)
-        -N (Nodes)
-        -M (Metastasis)
-        -Stage
-        -Response
+        - Age
+        - Gender
+        - Smoking
+        - Hx Smoking
+        - Hx Radiotherapy
+        - Thyroid Function
+        - Physical Examination
+        - Adenopathy
+        - Pathology
+        - Focality
+        - Risk
+        - T (Tumor)
+        - N (Nodes)
+        - M (Metastasis)
+        - Stage
+        - Response
         
         The model is evaluated using classification performance metrics like accuracy, precision, Confusion Matrix, F1-score, and AUC-ROC,   ensuring its clinical reliability and robustness.
 
