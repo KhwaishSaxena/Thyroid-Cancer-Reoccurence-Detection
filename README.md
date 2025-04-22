@@ -1,4 +1,4 @@
-# Thyroid-Cancer-Reoccurence-Detection
+# Thyroid-Cancer-Reoccurrence-Detection
 
 The primary goal of this project is to leverage machine learning to predict the likelihood of thyroid cancer recurrence in survivors. Early identification of      
    recurrence risk allows for proactive follow-up care and improved patient outcomes.
@@ -71,5 +71,5 @@ Random Forest outperformed other models like **XGBoost**, **LightGBM**, and **Lo
 
 - **Accuracy**: 98%
 
-[Kaggle Notebook](https://www.kaggle.com/code/khwaishsaxena/thyroid-cancer-reoccurence-detection)
+[Kaggle Notebook](https://www.kaggle.com/code/khwaishsaxena/thyroid-cancer-reoccurrence-detection)
      
