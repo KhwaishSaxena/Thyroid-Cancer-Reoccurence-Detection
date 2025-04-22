@@ -5,7 +5,7 @@ st.write("""
         ## Objective
          The primary goal of this project is to leverage machine learning to assist in the early detection of thyroid cancer recurrence, enabling timely medical interventions and improved patient monitoring. By analyzing features such as age, tumor characteristics, treatment history, and follow-up data, the model provides a probabilistic prediction of cancer relapse risk in thyroid cancer survivors.
          
-        ##Dataset
+        ## Dataset
         The model is trained on a structured dataset consisting of clinical and diagnostic information of thyroid cancer patients. Key features include:
         
         -Age: Age of the patient at diagnosis or treatment
